@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="thejusthomson" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/thejusthomson?trk=profile-badge">Thejus Thomson</a></div>&nbsp;
-<a href="mailto:thomsonthejus@gmail.com?subject=Hey%20Thejus!"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail"/></a>&nbsp;
+<a href="mailto:thomsonthejus@gmail.com?subject=Hey%20Thejus!"><img src="https://img.icons8.com/?size=100&id=vtr2UMMlkCpS&format=png&color=000000" alt="Gmail"/></a>&nbsp;
+<a href="mailto:thomsonthejus@gmail.com?subject=Hey%20Thejus!"><img src="https://img.icons8.com/?size=100&id=EPGwLJfY346B&format=png&color=000000" alt="Gmail"/></a>&nbsp;
 </p>
