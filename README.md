@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
   <h1 align="center"><b>Hello there! 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="65"/>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="55"/>
   </h1>
   <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
