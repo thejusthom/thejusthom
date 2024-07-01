@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
   <h1 align="center"><b>Hello there! 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35"/>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="65"/>
   </h1>
   <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
@@ -42,12 +42,6 @@ Here are some ideas to get you started:
 - 🏦 I used to work as a backend developer at IBM
 - 💬 Talk to me about football, cricket or anything tbh
 - 🧑‍💻 Tech I know :
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,aws,gcp,terraform&perline=14" />
-  </a>
-</p>
-<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,html,css,sass,js,ts,linux,vim,terraform,python,spring,react,angular,bootstrap,nodejs,expressjs,redux,maven,postgres,mysql,mongo,gcp,aws,azure,git,githubactions&theme=dark&perline=14)](https://skillicons.dev)
 </div>
