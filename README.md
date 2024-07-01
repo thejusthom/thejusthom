@@ -16,10 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <h1 align="center"><b>Hello there, I'm Thejus! 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Thejus! 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35"/>
+  </h1>
 </p>
 
 <p align="center">
-<a href="mailto:thomsonthejus@gmail.com?subject=Hey%20Thejus!"><img src="https://img.icons8.com/?size=100&id=vtr2UMMlkCpS&format=png&color=000000" alt="Gmail"/></a>&nbsp;
-<a href="mailto:thomsonthejus@gmail.com?subject=Hey%20Thejus!"><img src="https://img.icons8.com/?size=100&id=EPGwLJfY346B&format=png&color=000000" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.c om/in/thejusthomson/"><img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt="Gmail" style=padding:20px></a>&nbsp;
+<a href="mailto:thomsonthejus@gmail.com?subject=Hey%20Thejus!"><img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000   " alt="Gmail" style=padding:20px></a>&nbsp;
+</p>
+
+<p align="center">
+<img align="centre" alt="visitors"  src="https://komarev.com/ghpvc/?username=thejusthom"
 </p>
