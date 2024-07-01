@@ -32,10 +32,6 @@ Here are some ideas to get you started:
 <a href="mailto:thomsonthejus@gmail.com?subject=Hey%20Thejus!"><img src="https://img.icons8.com/?size=100&id=9rAH3aJTe5Vu&format=png&color=000000" alt="Gmail" width="50" padding=20></a>&nbsp;
 </p>
 
-<p align="center">
-<img align="centre" alt="visitors"  src="https://komarev.com/ghpvc/?username=thejusthom"
-</p>
-
 ### About Me:
 - 📖 I'm currently pursuing Masters at Northeastern University
 - 💻 I use : **.java**, **.js**, **.ts**, **.hcl**, **.py**, **.sql**
@@ -52,3 +48,6 @@ Here are some ideas to get you started:
 
 ![thejusthom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejusthom&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
+<p align="center">
+<img align="centre" alt="visitors"  src="https://komarev.com/ghpvc/?username=thejusthom"
+</p>
