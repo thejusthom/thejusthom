@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.c om/in/thejusthomson/"><img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt="Gmail" style=padding:20px></a>&nbsp;
-<a href="mailto:thomsonthejus@gmail.com?subject=Hey%20Thejus!"><img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000   " alt="Gmail" style=padding:20px></a>&nbsp;
+<a href="https://www.linkedin.com/in/thejusthomson/"><img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt="Gmail" width="50" padding=20></a>&nbsp;
+<a href="mailto:thomsonthejus@gmail.com?subject=Hey%20Thejus!"><img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000   " alt="Gmail" width="50" padding=20></a>&nbsp;
 </p>
 
 <p align="center">
