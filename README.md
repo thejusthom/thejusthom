@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35"/>
   </h1>
   <!--STARTS_HERE_QUOTE_README-->
+<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 
