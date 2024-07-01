@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 <p>
   <h1 align="center"><b>Hello there! 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35"/>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35"/>
   </h1>
+  <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
 <i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
+</div>
 </p>
 
 <p align="center">
@@ -34,8 +36,21 @@ Here are some ideas to get you started:
 <img align="centre" alt="visitors"  src="https://komarev.com/ghpvc/?username=thejusthom"
 </p>
 
+### About Me:
+- 📖 I'm currently pursuing Masters at Northeastern University
+- 💻 I use : **.java**, **.js**, **.ts**, **.hcl**, **.py**, **.sql**
+- 🏦 I used to work as a backend developer at IBM
+- 💬 Talk to me about football, cricket or anything tbh
+- 🧑‍💻 Tech I know :
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,aws,gcp,terraform&perline=14" />
+  </a>
+</p>
+<div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,html,css,sass,js,ts,linux,vim,terraform,python,spring,react,angular,bootstrap,nodejs,expressjs,redux,maven,postgres,mysql,mongo,gcp,aws,azure,git,githubactions&theme=dark&perline=14)](https://skillicons.dev)
+</div>
 
 ![thejusthom's Stats](https://github-readme-stats.vercel.app/api?username=thejusthom&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
