@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <h1 align="center"><b>Hello there, I'm Thejus! 
+  <h1 align="center"><b>Hello there! 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35"/>
   </h1>
 </p>
@@ -29,3 +29,10 @@ Here are some ideas to get you started:
 <p align="center">
 <img align="centre" alt="visitors"  src="https://komarev.com/ghpvc/?username=thejusthom"
 </p>
+
+![thejusthom's Stats](https://github-readme-stats.vercel.app/api?username=thejusthom&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+
+![thejusthom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thejusthom&theme=gotham&hide_border=true)
+
+![thejusthom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejusthom&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+    
