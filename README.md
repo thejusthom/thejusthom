@@ -32,15 +32,17 @@ Here are some ideas to get you started:
 <a href="mailto:thomsonthejus@gmail.com?subject=Hey%20Thejus!"><img src="https://img.icons8.com/?size=100&id=9rAH3aJTe5Vu&format=png&color=000000" alt="Gmail" width="50" padding=20></a>&nbsp;
 </p>
 
-### About Me:
-- 📖 I'm currently pursuing Masters at Northeastern University
-- 💻 I use : **.java**, **.js**, **.ts**, **.hcl**, **.py**, **.sql**
-- 🏦 I used to work as a backend developer at IBM
-- 💬 Talk to me about football, cricket or anything tbh
-- 🧑‍💻 Tech I know :
+📖 I'm currently pursuing Masters at Northeastern University
+
+💻 I use : **.java**, **.js**, **.ts**, **.hcl**, **.py**, **.sql**
+
+🏦 I used to work as a backend developer at IBM
+
+💬 Talk to me about football, cricket or anything tbh
+
+🧑‍💻 Tech I know :
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,html,css,sass,js,ts,linux,vim,terraform,python,spring,react,angular,bootstrap,nodejs,expressjs,redux,maven,postgres,mysql,mongo,gcp,aws,azure,git,githubactions&theme=dark&perline=14)](https://skillicons.dev)
-</div>
 
 ![thejusthom's Stats](https://github-readme-stats.vercel.app/api?username=thejusthom&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
