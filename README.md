@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </h1>
   <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
+<i>❝CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </div>
 </p>
