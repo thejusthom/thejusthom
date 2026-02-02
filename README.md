@@ -57,7 +57,7 @@ PostgreSQL • MySQL • MongoDB
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🤖 [Portfolio with AI Chat](https://thejusthomson.netlify.app) | Personal portfolio with an AI chatbot that responds as me | React, Node.js, Gemini API |
-| 🏥 MSL Practice Gym | AI-powered training platform for Medical Science Liaisons (Hackathon Winner) | React, Node.js, PostgreSQL, Claude API |
+| 🏥 [MSL Practice Gym](https://msl-practice-gym-oats.vercel.app) | AI-powered training platform for Medical Science Liaisons (Hackathon Winner) | React, Node.js, PostgreSQL, Claude API |
 | 📋 ApplyPilot Agent | LinkedIn Easy Apply automation tool | Python, Playwright |
 
 ---
@@ -65,11 +65,11 @@ PostgreSQL • MySQL • MongoDB
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejusthom&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+![thejusthom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thejusthom&theme=gotham&hide_border=true)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejusthom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thejusthom&layout=donut-vertical)](https://github.com/Pranesh-2005/github-readme-stats)
 </p>
 
 ---
