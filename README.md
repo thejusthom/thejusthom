@@ -65,13 +65,13 @@ PostgreSQL • MySQL • MongoDB
 ### GitHub Stats
 
 <p align="center">
-![thejusthom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thejusthom&theme=gotham&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejusthom&theme=gotham&hide_border=true" alt="thejusthom's Streak" />
 </p>
-
 <p align="center">
- [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thejusthom&layout=donut-vertical)](https://github.com/Pranesh-2005/github-readme-stats)
+  <a href="https://github.com/Pranesh-2005/github-readme-stats">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thejusthom&layout=donut-vertical&theme=gotham&hide_border=true" alt="Top Langs" />
+  </a>
 </p>
-
 ---
 
 ### Let's Connect
