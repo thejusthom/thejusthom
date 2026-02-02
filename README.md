@@ -1,55 +1,85 @@
-<!-- ## Hi there 👋
+<h1 align="center">Hey, I'm Thejus Thomson 👋</h1>
 
-
-**thejusthom/thejusthom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p>
-  <h1 align="center"><b>Hello there! 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="55"/>
-  </h1>
-  <div align="center">
-  <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are more than 5000 new computer viruses are released every month.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-</div>
+<p align="center">
+  <strong>Software Engineer • Backend Specialist • Full-Stack Builder</strong>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/thejusthomson/"><img src="https://img.icons8.com/?size=100&id=XRDimtpq5vCY&format=png&color=000000" alt="Gmail" width="50" padding=20></a>&nbsp;
-<a href="https://www.instagram.com/thejusthomson/"><img src="https://img.icons8.com/?size=100&id=bh8L0hocH1mA&format=png&color=000000" alt="Instagram" width="50" padding=20></a>&nbsp;
-<a href="mailto:thomsonthejus@gmail.com?subject=Hey%20Thejus!"><img src="https://img.icons8.com/?size=100&id=9rAH3aJTe5Vu&format=png&color=000000" alt="Gmail" width="50" padding=20></a>&nbsp;
+  <a href="https://thejusthomson.netlify.app">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/thejusthomson/">💼 LinkedIn</a> •
+  <a href="mailto:thomsonthejus@gmail.com">📧 Email</a>
 </p>
 
-📖 I'm currently pursuing Masters at Northeastern University
+---
 
-💻 I use : **.java**, **.js**, **.ts**, **.hcl**, **.py**, **.sql**
+### About Me
 
-🏦 I used to work as a backend developer at IBM
+I'm a Software Engineer with 3+ years of experience building enterprise-scale systems. Recently completed my MS in Software Engineering at Northeastern University.
 
-💬 Talk to me about football, cricket or anything tbh
+- 🏦 **Previously at IBM** — Built microservices handling millions of financial transactions, migrated 50+ legacy SOAP services to REST APIs, and reduced latency by 80% through parallel processing pipelines
+- 🏆 **Hackathon Winner** — First place at DNATE Healthcare Hackathon, building an AI-powered Medical Science Liaison training platform
+- 🔧 **Currently Building** — Job search automation tools, AI-powered applications, and contributing to open source at Code for Boston
+- ⚽ **Fun fact** — Manchester City fan, F1 enthusiast, and I referee intramural sports at Northeastern
 
-🧑‍💻 Tech I know :
+---
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,html,css,sass,js,ts,linux,vim,terraform,python,spring,react,angular,bootstrap,nodejs,expressjs,redux,maven,postgres,mysql,mongo,gcp,aws,azure,git,githubactions&theme=dark&perline=14)](https://skillicons.dev)
+### Tech Stack
 
-![thejusthom's Stats](https://github-readme-stats.vercel.app/api?username=thejusthom&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+**Languages**
+```
+Java • Python • TypeScript • JavaScript • SQL
+```
 
-![thejusthom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thejusthom&theme=gotham&hide_border=true)
+**Backend & APIs**
+```
+Spring Boot • Node.js • Express • REST • Apache Camel • OAuth 2.0
+```
 
-![thejusthom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejusthom&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+**Frontend**
+```
+React • Next.js • Angular • HTML/CSS • Redux
+```
+
+**Cloud & DevOps**
+```
+AWS • GCP • Azure • Terraform • Docker • GitHub Actions • CI/CD
+```
+
+**Databases**
+```
+PostgreSQL • MySQL • MongoDB
+```
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🤖 [Portfolio with AI Chat](https://thejusthomson.netlify.app) | Personal portfolio with an AI chatbot that responds as me | React, Node.js, Gemini API |
+| 🏥 MSL Practice Gym | AI-powered training platform for Medical Science Liaisons (Hackathon Winner) | React, Node.js, PostgreSQL, Claude API |
+| 📋 ApplyPilot Agent | LinkedIn Easy Apply automation tool | Python, Playwright |
+
+---
+
+### GitHub Stats
 
 <p align="center">
-<img align="centre" alt="visitors"  src="https://komarev.com/ghpvc/?username=thejusthom"
+  <img src="https://github-readme-stats.vercel.app/api?username=thejusthom&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejusthom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### Let's Connect
+
+I'm open to software engineering opportunities and always happy to chat about tech, football, or anything else.
+
+📫 **thomsonthejus@gmail.com** | 🌐 **[thejusthomson.netlify.app](https://thejusthomson.netlify.app)**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thejusthom&color=6366f1&style=flat" alt="Profile views" />
 </p>
