@@ -68,9 +68,7 @@ PostgreSQL • MySQL • MongoDB
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejusthom&theme=gotham&hide_border=true" alt="thejusthom's Streak" />
 </p>
 <p align="center">
-  <a href="https://github.com/Pranesh-2005/github-readme-stats">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thejusthom&layout=donut-vertical&theme=gotham&hide_border=true" alt="Top Langs" />
-  </a>
 </p>
 ---
 
