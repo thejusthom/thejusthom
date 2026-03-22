@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Thejus Thomson 👋</h1>
 <p align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝During IBM Watson’s Jeopardy Game, it stored all 15 terabytes of its knowledge in RAM, including every page of Wikipedia in existence.❞</i>
+<i>❝“The goal is to turn data into information, and information into insight.”— Carly Fiorina❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <p align="center">
