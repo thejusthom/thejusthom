@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Thejus Thomson 👋</h1>
 <p align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The goal is to turn data into information, and information into insight.”— Carly Fiorina❞</i>
+<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <p align="center">
