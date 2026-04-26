@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Thejus Thomson 👋</h1>
 <p align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝According to a survey, most of the apps in your android device leaks your data, so be aware.❞</i>
+<i>❝There is a programming language called INTERCAL which has keywords like IGNORE, PLEASE , FORGET. If you don’t use PLEASE enough times while coding, Compiler rejects the code.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <p align="center">
